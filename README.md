@@ -24,3 +24,23 @@ perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), ya
 
 # latihan2.py
 
+![inputlatihan2](https://user-images.githubusercontent.com/46512870/52993808-153b2c80-3448-11e9-8e33-d3df0f8d5182.png)
+
+Perulangan **while**
+
+Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
+
+> while kondisi:
+
+> perintah yang diulang
+
+Pernyataan **break**
+
+Pernyataan break digunakan untuk menghentikan  proses perulangan pada kondisi tertentu.
+
+> if a == 0:
+
+>      break
+
+# Hasil Output latihan2.py >>>>>>>
+
