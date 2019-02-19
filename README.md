@@ -12,7 +12,7 @@
 
 > print(a)
 
-Perulangan **for** 
+**Perulangan for** 
 
 perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
@@ -26,17 +26,17 @@ perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), ya
 
 ![inputlatihan2](https://user-images.githubusercontent.com/46512870/52993808-153b2c80-3448-11e9-8e33-d3df0f8d5182.png)
 
-Perulangan **while**
+**Perulangan while**
 
-Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
+Perulangan **while** disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 > while kondisi:
 
 > perintah yang diulang
 
-Pernyataan **break**
+**Pernyataan break**
 
-Pernyataan break digunakan untuk menghentikan  proses perulangan pada kondisi tertentu.
+Pernyataan **break** digunakan untuk menghentikan  proses perulangan pada kondisi tertentu.
 
 > if a == 0:
 
@@ -47,4 +47,10 @@ Pernyataan break digunakan untuk menghentikan  proses perulangan pada kondisi te
 ![outputlatihan2](https://user-images.githubusercontent.com/46512870/52994192-5ed84700-3449-11e9-9a77-81ed3420f760.png)
 
 # progam1.py
+
+![inputprogam1](https://user-images.githubusercontent.com/46512870/52994630-cc38a780-344a-11e9-86d5-135b8be7a2a3.png)
+
+**Perulangan for**
+
+Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu. Contoh:
 
