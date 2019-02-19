@@ -2,6 +2,8 @@
 
 # latihan1.py
 
+**Pertama Kita Bahas Alur Algoritma Progam "latihan1.py"**
+
 ![inputlatihan1 py](https://user-images.githubusercontent.com/46512870/52991217-57f80700-343e-11e9-8aaf-573427179335.png)
 
 **Pengacakan, pembangkit bilangan acak,** atau **random** dapat digunakan untuk berbagai macam hal. Salah satunya adalah untuk memecahkan kasus Monte Carlo. Nilai random kadang dibutuhkan juga untuk menentukan suatu pilihan. Atau digunakan juga untuk membuat id yang ditambahi dari string asal. Randomisasi juga dapat digunakan untuk mengacak suatu tampilan produk, atau digunakan saat proses pelatihan sebuah mesin cerdas. Di Python untuk melakukan random cukup mudah. Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
@@ -23,6 +25,8 @@ perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), ya
 ![outputlatihan1 py](https://user-images.githubusercontent.com/46512870/52993325-664a2100-3446-11e9-9494-1af290ce893e.png)
 
 # latihan2.py
+
+**Kedua Kita Bahas Alur Algoritma Progam "latihan2.py"**
 
 ![inputlatihan2](https://user-images.githubusercontent.com/46512870/52993808-153b2c80-3448-11e9-8e33-d3df0f8d5182.png)
 
@@ -48,9 +52,11 @@ Pernyataan **break** digunakan untuk menghentikan  proses perulangan pada kondis
 
 # progam1.py
 
+**Ketiga Kita Bahas Alur Algoritma Progam "program1.py"**
+
 ![inputprogam1](https://user-images.githubusercontent.com/46512870/52994630-cc38a780-344a-11e9-86d5-135b8be7a2a3.png)
 
-**Perulangan *for**
+**Perulangan *for* **
 
 Perulangan *for* disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu. Contoh:
 
@@ -64,3 +70,9 @@ Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percaba
 
 # Hasil Output program1.py >>>>>>>
 
+![outputprogam1](https://user-images.githubusercontent.com/46512870/52996260-a06bf080-344f-11e9-8df2-a991e17c682f.png)
+
+
+SEKIAN PROGAM latihan1.py, latihan2.py & program1.py, APABILA ADA KEKURANGAN SAYA MOHON MAAF YANG SEBESAR-BESARNYA.
+
+TERIMAKASIH.......
