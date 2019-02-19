@@ -56,7 +56,7 @@ Pernyataan **break** digunakan untuk menghentikan  proses perulangan pada kondis
 
 ![inputprogam1](https://user-images.githubusercontent.com/46512870/52994630-cc38a780-344a-11e9-86d5-135b8be7a2a3.png)
 
-**Perulangan *for* **
+**Perulangan for**
 
 Perulangan *for* disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu. Contoh:
 
