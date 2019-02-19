@@ -60,3 +60,7 @@ Perulangan *for* disebut juga sebagai counted loop (perulangan yang terhitung), 
 
 Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaiyu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. Contoh :
 
+![ifprogam1](https://user-images.githubusercontent.com/46512870/52996140-33585b00-344f-11e9-8b06-1ef9a90527f7.png)
+
+# Hasil Output program1.py >>>>>>>
+
