@@ -18,5 +18,6 @@ perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), ya
 
 > for x in range (start,stop)
 
-# Hasil Outputnya >>>>>
+# Hasil Output latihan1.py >>>>>>>
 
+![outputlatihan1 py](https://user-images.githubusercontent.com/46512870/52993325-664a2100-3446-11e9-9494-1af290ce893e.png)
