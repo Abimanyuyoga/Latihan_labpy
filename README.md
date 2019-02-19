@@ -73,6 +73,6 @@ Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percaba
 ![outputprogam1](https://user-images.githubusercontent.com/46512870/52996260-a06bf080-344f-11e9-8df2-a991e17c682f.png)
 
 
-SEKIAN ALGORITMA PROGAM latihan1.py, latihan2.py & program1.py, APABILA ADA KEKURANGAN SAYA MOHON MAAF YANG SEBESAR-BESARNYA.
+**SEKIAN PROGAM latihan1.py, latihan2.py & program1.py, APABILA ADA KEKURANGAN SAYA MOHON MAAF YANG SEBESAR-BESARNYA.**
 
-TERIMAKASIH
+**TERIMAKASIH....**
