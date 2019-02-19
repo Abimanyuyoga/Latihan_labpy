@@ -64,7 +64,7 @@ Perulangan *for* disebut juga sebagai counted loop (perulangan yang terhitung), 
 
 **Menggunakan kondisional if**
 
-Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaiyu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. Contoh :
+Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. Contoh :
 
 ![ifprogam1](https://user-images.githubusercontent.com/46512870/52996140-33585b00-344f-11e9-8b06-1ef9a90527f7.png)
 
@@ -73,6 +73,6 @@ Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percaba
 ![outputprogam1](https://user-images.githubusercontent.com/46512870/52996260-a06bf080-344f-11e9-8df2-a991e17c682f.png)
 
 
-SEKIAN PROGAM latihan1.py, latihan2.py & program1.py, APABILA ADA KEKURANGAN SAYA MOHON MAAF YANG SEBESAR-BESARNYA.
+SEKIAN ALGORITMA PROGAM latihan1.py, latihan2.py & program1.py, APABILA ADA KEKURANGAN SAYA MOHON MAAF YANG SEBESAR-BESARNYA.
 
-TERIMAKASIH.......
+TERIMAKASIH
